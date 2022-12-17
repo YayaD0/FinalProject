@@ -1,0 +1,75 @@
+h1 {font-family: "comic Sans MS", cursive, sans-serif;
+font-size: 50px;
+color: 3a4660;
+text-align: center;
+margin: 0;
+padding: 0;
+}
+
+h2 {
+font-family: "comic Sans MS", cursive, sans-serif;
+font-size: 30;
+color: 3a4660;
+text-align: center;
+margin: 0;
+padding: 0;
+}
+
+p {
+font-family: "ubuntu";
+color: 3a4660;
+text-align: center;
+font-size: 18;
+}
+
+h3 { font-family: "comic Sans MS", cursive, sans-serif;
+font-size: 30;
+color: 3a4660;
+text-align: center;}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: pink;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color:3a4660;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: skyblue;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.Box p {
+   margin: 0;
+   padding: 0;
+}
+
+
+img {
+display: block; 
+margin-left: auto; 
+margin-right: auto; width: 50%;
+}
+
+
+
